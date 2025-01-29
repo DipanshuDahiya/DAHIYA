@@ -1,2 +1,2 @@
 # DAHIYA
-BY Dipanshu JavaScript
+BY Dipanshu Python,JavaScript,C,HTML
