@@ -1,2 +1,2 @@
 # DAHIYA
-BY Dipanshu Python,JavaScript,C,HTML
+BY Dipanshu some of the easy Python projects
